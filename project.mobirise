@@ -1,0 +1,2098 @@
+{
+  "settings": {
+    "name": "MasterBioPhys",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#ffffff",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#232323",
+        "#547c48",
+        "#282828"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.11.2",
+    "siteFonts": [],
+    "uniqCompNum": 39,
+    "versionPublish": "5.2.0",
+    "screenshot": "screenshot.png",
+    "imageResize": true,
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "4",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mechano-biol-thumb-400x365.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Biological physics",
+          "text": "Specialization in the \"Biological and medical physics\" option of the Physics master program at the University of Oslo<br><br><a href=\"https://www.mn.uio.no/fysikk/english/research/groups/biophysics/index.html\" target=\"_blank\" class=\"text-info\">(Click here for the specialization \"Medical physics\")</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page1.html#msg-box5-x\" data-toolbar=\"-mbrBtnMove\">Next</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#41a85f"
+            },
+            "P": {
+              "color": "#41a85f",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "msg-box5-2"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": true,
+            "filter": true,
+            "images": [
+              {
+                "tags": "Cell motility",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/swimmer-image-500x272.png",
+                "thumb": "@PROJECT_PATH@/assets/images/swimmer-image-500x272-500x272.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"Dag.html\">Model of swimming Dictiostelia</a>",
+                "active": false
+              },
+              {
+                "tags": "Mechanobiology",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/piezo-protein.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/piezo-protein.gif",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"Dag.html\">Piezo (pressure sensing) protein in membrane</a>",
+                "active": false
+              },
+              {
+                "tags": "Mechanobiology",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/f-actin-1-700x500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/f-actin-1-700x500-700x500.jpg",
+                "alt": "",
+                "title": "MechanoBiology",
+                "caption": "<a href=\"Dag.html\">F-actin network (green) in aorta cell</a>",
+                "active": false
+              },
+              {
+                "tags": "Computational neuroscience",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/cell-purkinje-mouse-brain-microscopy-fluorescent-dye-1-459x428.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cell-purkinje-mouse-brain-microscopy-fluorescent-dye-1-459x428-459x428.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"page1.html\">Purkinje cell from a mouse brain</a>",
+                "active": false
+              },
+              {
+                "tags": "Dynamic interfaces",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/cell-on-bilayer-2000x1721.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cell-on-bilayer-2000x1721-800x688.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"page4.html\">Immune cell adhesion</a>",
+                "active": false
+              },
+              {
+                "tags": "Cell motility",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/cellular-pots-2000x1109.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cellular-pots-2000x1109-800x444.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"page3.html\">Modeling cell motion</a>",
+                "active": true
+              },
+              {
+                "tags": "BioImpedance",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/bioimpedance-700x467.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bioimpedance-700x467-700x467.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"page9.html\">Bioimpedance</a>",
+                "active": false
+              },
+              {
+                "tags": "Computational neuroscience",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/lCIYw5IT_us",
+                "image": "@PROJECT_PATH@/assets/images/skjermbilde-2020-03-17-kl.-13.19.11-1740x1596.png",
+                "thumb": "@PROJECT_PATH@/assets/images/skjermbilde-2020-03-17-kl.-13.19.11-1740x1596-800x734.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"page3.html\">Brain cells firing in live mouse&nbsp;</a>",
+                "active": false
+              },
+              {
+                "tags": "Biomineralization",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/biozement2-1400x1882.png",
+                "thumb": "@PROJECT_PATH@/assets/images/biozement2-1400x1882-800x1075.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"page11.html\">Bacteria inducing calcite growth</a>",
+                "active": false
+              },
+              {
+                "tags": "Active matter",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://youtu.be/Mrz587nxGFU",
+                "image": "@PROJECT_PATH@/assets/images/confocal-microscopy-of-swarming-wild-type-escherichia-coli-cells-expressing-green-fluorescent-protein-pgen.0030154.sv001.ogv-640x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/confocal-microscopy-of-swarming-wild-type-escherichia-coli-cells-expressing-green-fluorescent-protein-pgen.0030154.sv001.ogv-640x480-640x480.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"page10.html\">E&nbsp;coli bacteria swarming</a>",
+                "active": false
+              },
+              {
+                "tags": "Biomineralization, Microfluidics",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mufluid-bone-cell-2000x1115.png",
+                "thumb": "@PROJECT_PATH@/assets/images/mufluid-bone-cell-2000x1115-800x446.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"Dag.html#features3-12\">Microfluidics to study bone growth</a>",
+                "active": false
+              },
+              {
+                "tags": "Soft matter",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/membrane3.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/membrane3.gif",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"page2.html#header1-7\">Cell membrane</a>",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-o",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "color": "#f3c649"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About MSc Biological Physics</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">General information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Curriculum</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Topics &amp; projects<br>by contact person</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Gaute Einevoll</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Anders Malthe-Sørenssen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Ørjan Martinsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" aria-expanded=\"false\">Dag Kristian Dysthe<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Luiza Angheluta<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Anja Røyne<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Andreas Carlson (Mathematics department)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Irep Gözen (Centre for Molecular Medicine)</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Web page info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" target=\"_blank\">Web site responsible</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mechano-biol-thumb-140x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/english/studies/programmes/physics-master/programme-options/biological-medical/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">MSc Biological Physics@UiO<br>Official webpage<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-w"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "Gaute Einevoll",
+        "order": 11
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cell-purkinje-mouse-brain-microscopy-fluorescent-dye-1-459x428.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<a href=\"https://www.nmbu.no/ans/gaute.einevoll\" target=\"_blank\">Gaute Einevoll</a>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/gauteeinevoll1-750x533.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Computational neuroscience",
+          "text": "<a href=\"https://www.youtube.com/watch?v=2pS3ltBHEMM&amp;list=UU35666py1ssVU2svA6CFJcQ&amp;index=43\" target=\"_blank\">Human Brain project</a><br><a href=\"https://www.youtube.com/watch?v=37GXoNzk0vw\" target=\"_blank\">Vett og vitenskap</a><br><br>&nbsp;Collaborators:<br><a href=\"https://www.mn.uio.no/ibv/personer/vit/mariafy/\" target=\"_blank\">Marianne Fyhn</a><br><a href=\"page3.html\" target=\"_blank\">Anders Malthe-Sørenssen</a><a href=\"https://www.mn.uio.no/ibv/personer/vit/mariafy/\"><br></a><br>News:<br><a href=\"https://titan.uio.no/node/3305\" target=\"_blank\">Titan&nbsp;</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-5"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About MSc Biological Physics</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">General information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Curriculum</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Topics &amp; projects<br>by contact person</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Gaute Einevoll</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Anders Malthe-Sørenssen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Ørjan Martinsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" aria-expanded=\"false\">Dag Kristian Dysthe<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Luiza Angheluta<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Anja Røyne<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Andreas Carlson (Mathematics department)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Irep Gözen (Centre for Molecular Medicine)</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Web page info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" target=\"_blank\">Web site responsible</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mechano-biol-thumb-140x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/english/studies/programmes/physics-master/programme-options/biological-medical/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">MSc Biological Physics@UiO<br>Official webpage<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-w"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Irep Gözen",
+        "order": 10
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/skjermbilde-2020-03-12-kl.-15.18.21-2000x917.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "<a href=\"https://www.softlabnorway.com\" target=\"_blank\">Irep Gözen</a>",
+          "text": "<a href=\"https://www.softlabnorway.com\" class=\"text-black\" target=\"_blank\"><b>Softlab Norway</b></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-7"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About MSc Biological Physics</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">General information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Curriculum</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Topics &amp; projects<br>by contact person</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Gaute Einevoll</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Anders Malthe-Sørenssen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Ørjan Martinsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" aria-expanded=\"false\">Dag Kristian Dysthe<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Luiza Angheluta<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Anja Røyne<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Andreas Carlson (Mathematics department)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Irep Gözen (Centre for Molecular Medicine)</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Web page info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" target=\"_blank\">Web site responsible</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mechano-biol-thumb-140x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/english/studies/programmes/physics-master/programme-options/biological-medical/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">MSc Biological Physics@UiO<br>Official webpage<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-w"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "Anders Malthe-Sørenssen",
+        "order": 9
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cinpla-1024x714.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "<a href=\"https://www.mn.uio.no/fysikk/english/people/aca/malthe/\" target=\"_blank\">Anders</a><br><a href=\"https://www.mn.uio.no/fysikk/english/people/aca/malthe/\" target=\"_blank\">Malthe-</a><br><a href=\"https://www.mn.uio.no/fysikk/english/people/aca/malthe/\" target=\"_blank\">Sørenssen</a>",
+          "text": "<a href=\"https://www.uio.no/english/studies/programmes/computational-science-master/programme-options/physics/index.html\" target=\"_blank\" class=\"text-warning\">Computational physics</a><br><a href=\"https://www.mn.uio.no/ccse/english/\" target=\"_blank\" class=\"text-warning\">CCSE</a><br><a href=\"https://www.mn.uio.no/ibv/english/research/sections/fyscell/cinpla/\" target=\"_blank\" class=\"text-warning\">CINPLA</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-9",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".mbr-section-lead": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About MSc Biological Physics</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">General information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Curriculum</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Topics &amp; projects<br>by contact person</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Gaute Einevoll</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Anders Malthe-Sørenssen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Ørjan Martinsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" aria-expanded=\"false\">Dag Kristian Dysthe<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Luiza Angheluta<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Anja Røyne<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Andreas Carlson (Mathematics department)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Irep Gözen (Centre for Molecular Medicine)</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Web page info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" target=\"_blank\">Web site responsible</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mechano-biol-thumb-140x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/english/studies/programmes/physics-master/programme-options/biological-medical/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">MSc Biological Physics@UiO<br>Official webpage<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-w"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Site Maker Description",
+        "title": "Andreas Carlson",
+        "order": 8
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": false,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/clathrate-wave-536x350.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/cell-on-bilayer-1400x1205.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<a href=\"http://folk.uio.no/acarlson/index.html\" target=\"_blank\">Andreas Carlson</a>",
+          "text": "<a href=\"http://folk.uio.no/acarlson/index.html\" target=\"_blank\">Dynamic interface phenomena in biology</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-c"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About MSc Biological Physics</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">General information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Curriculum</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Topics &amp; projects<br>by contact person</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Gaute Einevoll</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Anders Malthe-Sørenssen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Ørjan Martinsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" aria-expanded=\"false\">Dag Kristian Dysthe<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Luiza Angheluta<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Anja Røyne<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Andreas Carlson (Mathematics department)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Irep Gözen (Centre for Molecular Medicine)</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Web page info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" target=\"_blank\">Web site responsible</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mechano-biol-thumb-140x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/english/studies/programmes/physics-master/programme-options/biological-medical/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">MSc Biological Physics@UiO<br>Official webpage<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-w"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "About General",
+        "order": 7
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/leaf-1600x1000.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MSc Biological Physics",
+          "text": "<p>Biological physics is an interdisiplinary science using physics as a tool to understand structures and processes within biology and medicine. Biological physics covers all scales of biological organisation of from molecules to cells, organisms and populations. We give research based education within an area where the discovery rate is enormous and jobs are made.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-q"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "7",
+            "bgColor": "#faaf40"
+          },
+          "text1": "<p><span style=\"font-size: 1.07rem;\"><b>The main focus of this MSc study is:</b></span></p><p><span style=\"font-size: 1.07rem;\"> How do fundamental physical laws determine the properties of complex biological systems?</span></p><p><br></p><p><b>Scientific and technological revolution</b></p><p>This MSc will give you the opportunity to partake in the incredible revolution within life science today. After the first revolution \"Molecular biology\" and the second revolution \"Genomics\" a high rate of discovery is now driven by interdisciplinarity in the intersection between bioscience and physics, chemistry, mathematics and informatics. Big questions such as \"what is life?\", \"what is intelligence?\" and \"what is cancer?\" are on the agenda. We also work with technological approaches to life science research and healthcare.</p>",
+          "text2": "<p><b>Choose your own curriculum</b></p><p>We use our knowledge to develop and improve methods within life science. You choose the <a href=\"page6.html\" class=\"text-info\">theoretical curriculum</a> based on which direction you specialize in and the master project can be tailored to fit your interest and qualifications.</p><p><br></p><p><b>Interdisciplinary</b></p><p>The theoretical curriculum will teach you theory, modelling and/or experiment and in your thesis work you will apply this to biological problems. In your interdisciplinary master project you will work closely with researchers at&nbsp;<span style=\"font-size: 1.07rem;\">the <a href=\"https://www.mn.uio.no/ibv/english/about/organisation/research-sections/fyscell/index.html\" target=\"_blank\" class=\"text-info\">Department of Biosciences</a>, the <a href=\"https://www.med.uio.no/hth/english/\" target=\"_blank\" class=\"text-info\">Hybrid Technology Hub</a>, the <a href=\"https://www.ous-research.no/bioimpedance/\" target=\"_blank\" class=\"text-info\">Department of Clinical and Biomedical Engineering at Oslo University Hospital</a>, the&nbsp;<a href=\"https://www.med.uio.no/ncmm/english/\" target=\"_blank\" class=\"text-info\">Centre for Molecular Medicine</a>, the <i><a href=\"https://www.odont.uio.no/iko/english/about/organization/units/biomaterials/\" target=\"_blank\" class=\"text-info\">Department of Biomaterials</a></i> or the&nbsp;<a href=\"https://www.nih.no/en/research/about/departments/physical-performance/\" target=\"_blank\" class=\"text-info\">Norwegian School of Sport Sciences</a>.</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-f",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About MSc Biological Physics</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">General information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Curriculum</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Topics &amp; projects<br>by contact person</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Gaute Einevoll</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Anders Malthe-Sørenssen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Ørjan Martinsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" aria-expanded=\"false\">Dag Kristian Dysthe<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Luiza Angheluta<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Anja Røyne<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Andreas Carlson (Mathematics department)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Irep Gözen (Centre for Molecular Medicine)</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Web page info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" target=\"_blank\">Web site responsible</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mechano-biol-thumb-140x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/english/studies/programmes/physics-master/programme-options/biological-medical/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">MSc Biological Physics@UiO<br>Official webpage<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-w"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Curriculum",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#faaf40"
+            },
+            ".lead": {
+              "color": "#fac51c"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/leaf-1600x1000.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Choose your curriculum",
+          "text": "<p>There are many courses to choose from. Here is a list of courses that we recommend.&nbsp;</p><p>Find what you fancy and discuss your wishes with your supervisor.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-h"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#547c48"
+          },
+          "text1": "<p><a href=\"http://folk.uio.no/dagkd/BiologicalPhysics/\" class=\"text-warning\"><b>FYS4715</b>&nbsp;Biological physics</a></p><p><span style=\"font-size: 1.07rem;\"><a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4700/index-eng.html\" class=\"text-warning\"><b></b></a><a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4700/index-eng.html\" target=\"_blank\" class=\"text-warning\"><b>FYS4700</b></a><a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4700/index-eng.html\" target=\"_blank\" class=\"text-warning\"> Medical physics</a></span></p><p><a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4130/index-eng.html\" target=\"_blank\" class=\"text-warning\"><b>FYS4130</b>&nbsp;Statistical mechanics</a></p><p><span style=\"font-size: 1.07rem;\"><a href=\"https://www.nmbu.no/course/FYS388\" target=\"_blank\" class=\"text-warning\"><b>FYS388</b> Computational neuroscience</a>&nbsp;</span></p><p><a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4239/index-eng.html\" target=\"_blank\" class=\"text-warning\"><b>FYS4239</b> Electrical bioimpedance</a></p>",
+          "text2": "<p><a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4150/index-eng.html\" target=\"_blank\" class=\"text-warning\"><b>FYS4150</b> Computational physics</a></p><p><a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4231/index-eng.html\" target=\"_blank\" class=\"text-warning\"><b>FYS4231</b> Sensors and measurement </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4231/index-eng.html\" target=\"_blank\" class=\"text-warning\">technology</a></p><p><span style=\"font-size: 1.07rem;\"><a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS-STK4155/index-eng.html\" target=\"_blank\" class=\"text-warning\"><b>FYS-STK4155</b> Applied data analysis and </a></span>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem;\"><a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS-STK4155/index-eng.html\" target=\"_blank\" class=\"text-warning\">machine learning</a></span></p><p><a href=\"https://www.uio.no/studier/emner/matnat/math/STK4900/index-eng.html\" target=\"_blank\" class=\"text-warning\"><b>STK4900</b> – Statistical methods and </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.uio.no/studier/emner/matnat/math/STK4900/index-eng.html\" target=\"_blank\" class=\"text-warning\">applications</a></p><p><a href=\"https://www.uio.no/studier/emner/matnat/its/TEK4010/index-eng.html\" target=\"_blank\" class=\"text-warning\"><b>TEK4010</b> Optics and light</a></p><p><br></p>",
+          "text3": "<p><a href=\"https://www.uio.no/studier/emner/matnat/ibv/MBV4910IGEM/\" target=\"_blank\" class=\"text-warning\"><b>MBV4910 IGEM</b> International Genetically </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.uio.no/studier/emner/matnat/ibv/MBV4910IGEM/\" target=\"_blank\" class=\"text-warning\">Engineered Machine</a></p><p><a href=\"https://www.uio.no/studier/emner/matnat/ibv/BIOS-IN5010/index.html\" target=\"_blank\" class=\"text-warning\"><b>BIOS-IN5010</b> Computational physiology</a></p><p><a href=\"https://www.uio.no/studier/emner/matnat/ibv/BIOS5812/index-eng.html\" target=\"_blank\" class=\"text-warning\"><b>BIOS5812</b> Advanced physiology and &nbsp;&nbsp;&nbsp;&nbsp;nevrobiology</a></p><p><a href=\"https://www.uio.no/studier/emner/matnat/ibv/BIOS3700/index-eng.html\" target=\"_blank\" class=\"text-warning\"><b>BIOS3700</b> Cell biology 2</a></p><p><a href=\"https://www.uio.no/studier/emner/matnat/ibv/BIOS3800/index-eng.html\" target=\"_blank\" class=\"text-warning\"><b>BIOS3800</b> Human physiology</a></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-i",
+          "_styles": {
+            ".lead": {
+              "color": "#f28281"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/leaf-1600x1000.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-j"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About MSc Biological Physics</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">General information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Curriculum</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Topics &amp; projects<br>by contact person</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Gaute Einevoll</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Anders Malthe-Sørenssen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Ørjan Martinsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" aria-expanded=\"false\">Dag Kristian Dysthe<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Luiza Angheluta<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Anja Røyne<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Andreas Carlson (Mathematics department)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Irep Gözen (Centre for Molecular Medicine)</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Web page info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" target=\"_blank\">Web site responsible</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mechano-biol-thumb-140x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/english/studies/programmes/physics-master/programme-options/biological-medical/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">MSc Biological Physics@UiO<br>Official webpage<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-w"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "Image links",
+        "order": 5
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/leaf-1600x1000.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Image links",
+          "text": "All images on this site have the source information added into the embedded metadata",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-l"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About MSc Biological Physics</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">General information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Curriculum</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Topics &amp; projects<br>by contact person</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Gaute Einevoll</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Anders Malthe-Sørenssen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Ørjan Martinsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" aria-expanded=\"false\">Dag Kristian Dysthe<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Luiza Angheluta<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Anja Røyne<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Andreas Carlson (Mathematics department)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Irep Gözen (Centre for Molecular Medicine)</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Web page info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" target=\"_blank\">Web site responsible</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mechano-biol-thumb-140x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/english/studies/programmes/physics-master/programme-options/biological-medical/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">MSc Biological Physics@UiO<br>Official webpage<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-w"
+        }
+      ]
+    },
+    "Dag.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "Dag Kristian Dysthe",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/line-cell-beadsrgb2-757x269.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Cell biophysics &amp; mechanobiology",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-r"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fac51c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/crawling-swimming-cell-600x633.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/us-islets2-600x552.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/600px-emiliania-huxleyi-coccolithophore-plos-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/microfluidics-600x562.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Cell motility",
+          "subtitle1": "Cells swim and crawl on surfaces and through the 3D extracellular matrix",
+          "caption1": "We do experiments and model computations to understand the fundamental physics of cell motion.",
+          "title2": "<a href=\"https://www.oslodiabetes.no/abino\" target=\"_blank\" class=\"text-info\">Ultrasound music for cells</a>",
+          "subtitle2": "Biologists' drawings and basic physics don't always agree",
+          "caption2": "Our medical colleagues at <a href=\"https://www.med.uio.no/hth/english/\" target=\"_blank\" class=\"text-info\">HTH</a> want ultrasound music to stimulate creation of new beta cells that can cure diabetes. But how does ultrasound actually affect human cells? Can we find methods to probe the effect of ultrasound on stem cells on their way to become insuline producing cells?",
+          "title3": "Biomineralization",
+          "subtitle3": "Animals grow bones and algae grow coccoliths",
+          "caption3": "How do living cells use organic molecules, membranes and confinement to control complex growth of crystals?<br>We work on <br>- fundamental crystal growth in confinement<br>- with dentists on how to regenerate bone after periodontitis",
+          "title4": "Microfluidics",
+          "subtitle4": "Microfluidics is a set of technologies to control small fluid volumes and flows.",
+          "caption4": "Fantasy sets the limits for making new miniature laboratories to study biophysics.&nbsp;<br>We have production facilities for different types of microfluidics from you design the network on your computer to run the experiments: Clean benches, photolithography, plasma cleaner, pdms foundry, cutting plotter, flow control hardware, microscopes...",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-12"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": false,
+            "imageSize": "48",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/skjermbilde-2020-03-13-kl.-12.59.32-1832x1334.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/cljq5Hm2rDY?rel=0&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/cljq5Hm2rDY?rel=0&showinfo=0&autoplay=0&loop=0",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/embed/cljq5Hm2rDY",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<a href=\"https://www.mn.uio.no/fysikk/english/people/aca/dagkd/\" target=\"_blank\">Dag Kristian Dysthe</a>",
+          "text": "<b>Research themes for master projects:</b><br>Swimming and crawling cells<br>How cells sense low intensity ultrasound<br>Growth of coccoliths<br>Human bone remodelling in microfluidics<br><br><b>Collaborating institutions:</b><br><a href=\"https://www.med.uio.no/hth/english/\" target=\"_blank\">Hybrid Technology Hub</a><br><a href=\"https://www.odont.uio.no/iko/english/about/organization/units/biomaterials/\" target=\"_blank\">Department of Biomaterials</a><br><a href=\"https://www-liphy.univ-grenoble-alpes.fr/?lang=en\" target=\"_blank\">Laboratoire Interdisciplinaire de Physique</a><br><br><b>Teaching:</b><br> <a href=\"http://folk.uio.no/dagkd/BiologicalPhysics/\" target=\"_blank\">FYS4715 Biological Physics</a><br><a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS2160/index-eng.html\" target=\"_blank\">FYS2160 Thermodynamics and statistical physics<br></a><br><a href=\"https://dagdysthe.wordpress.com/\" target=\"_blank\">Blog</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-n",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "right",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About MSc Biological Physics</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">General information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Curriculum</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Topics &amp; projects<br>by contact person</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Gaute Einevoll</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Anders Malthe-Sørenssen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Ørjan Martinsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" aria-expanded=\"false\">Dag Kristian Dysthe<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Luiza Angheluta<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Anja Røyne<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Andreas Carlson (Mathematics department)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Irep Gözen (Centre for Molecular Medicine)</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Web page info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" target=\"_blank\">Web site responsible</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mechano-biol-thumb-140x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/english/studies/programmes/physics-master/programme-options/biological-medical/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">MSc Biological Physics@UiO<br>Official webpage<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-w"
+        }
+      ]
+    },
+    "page9.html": {
+      "settings": {
+        "meta_descr": "Web Page Generator Description",
+        "title": "Ørjan Martinsen",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bioimpedance-tagged-700x467.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "<a href=\"http://www.bioimpedance.org/\" target=\"_blank\">Bioimpedance</a>",
+          "text": "<a href=\"https://www.mn.uio.no/fysikk/english/people/aca/ogm/index.html\" target=\"_blank\" class=\"text-warning\">Ørjan Grøttem Martinsen</a><br><br>Activities at:<br><a href=\"https://www.mn.uio.no/fysikk/english/research/projects/training4crm/index.html\" target=\"_blank\" class=\"text-warning\">Physics Department</a><br><a href=\"https://www.mn.uio.no/fysikk/english/research/projects/bioimpedance/\" target=\"_blank\" class=\"text-warning\">Oslo University Hospital</a><br><a href=\"https://www.med.uio.no/hth/english/groups/martinsen/index.html\" target=\"_blank\" class=\"text-warning\">Hybrid Technology Hub</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-t"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About MSc Biological Physics</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">General information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Curriculum</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Topics &amp; projects<br>by contact person</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Gaute Einevoll</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Anders Malthe-Sørenssen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Ørjan Martinsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" aria-expanded=\"false\">Dag Kristian Dysthe<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Luiza Angheluta<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Anja Røyne<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Andreas Carlson (Mathematics department)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Irep Gözen (Centre for Molecular Medicine)</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Web page info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" target=\"_blank\">Web site responsible</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mechano-biol-thumb-140x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/english/studies/programmes/physics-master/programme-options/biological-medical/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">MSc Biological Physics@UiO<br>Official webpage<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-w"
+        }
+      ]
+    },
+    "page10.html": {
+      "settings": {
+        "meta_descr": "Web Maker Description",
+        "title": "Luiza Angheluta",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About MSc Biological Physics</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">General information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Curriculum</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Topics &amp; projects<br>by contact person</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Gaute Einevoll</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Anders Malthe-Sørenssen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Ørjan Martinsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" aria-expanded=\"false\">Dag Kristian Dysthe<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Luiza Angheluta<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Anja Røyne<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Andreas Carlson (Mathematics department)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Irep Gözen (Centre for Molecular Medicine)</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Web page info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" target=\"_blank\">Web site responsible</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mechano-biol-thumb-140x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/english/studies/programmes/physics-master/programme-options/biological-medical/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">MSc Biological Physics@UiO<br>Official webpage<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-u"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": false,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/confocal-microscopy-of-swarming-wild-type-escherichia-coli-cells-expressing-green-fluorescent-protein-pgen.0030154.sv001.ogv-640x480.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/embed/q27Jn3h4kpE",
+              "aspectratio": "4:3",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<a href=\"https://www.mn.uio.no/fysikk/personer/vit/luizaa/\" target=\"_blank\">Luiza Angheluta</a>",
+          "text": "Active matter",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-11"
+        }
+      ]
+    },
+    "page11.html": {
+      "settings": {
+        "meta_descr": "Web Creator Description",
+        "title": "Anja Røyne",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About MSc Biological Physics</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">General information</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Curriculum</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">Topics &amp; projects<br>by contact person</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Gaute Einevoll</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Anders Malthe-Sørenssen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Ørjan Martinsen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" aria-expanded=\"false\">Dag Kristian Dysthe<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">Luiza Angheluta<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">Anja Røyne<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Andreas Carlson (Mathematics department)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Irep Gözen (Centre for Molecular Medicine)</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Web page info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Dag.html\" target=\"_blank\">Web site responsible</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mechano-biol-thumb-140x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/english/studies/programmes/physics-master/programme-options/biological-medical/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">MSc Biological Physics@UiO<br>Official webpage<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-z"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": false,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/biozement-500x375.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/biozement2-1400x1882.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<a href=\"https://www.mn.uio.no/fysikk/english/people/aca/anjaroy/index.html\" target=\"_blank\">Anja Røyne</a>",
+          "text": "<a href=\"https://digitallifenorway.org/prosjekter/biozement-2-0\" target=\"_blank\">Bacterially controlled mineralization</a><br><a href=\"https://digitallifenorway.org/prosjekter/biozement-2-0\" target=\"_blank\">BioZEment</a><br><a href=\"https://www.uniforum.uio.no/nyheter/2018/11/uio-fysikaren-anja-roine-fikk-brageprisen.html\" target=\"_blank\">Menneskets grunnstoffer</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-10"
+        }
+      ]
+    }
+  }
+}
